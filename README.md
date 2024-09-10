@@ -35,7 +35,7 @@ This project is a Python-based graphical user interface (GUI) application that a
 ## Setup Instructions
 1. **Clone the repository** (if available on a platform like GitHub):
     ```bash
-    git clone [https://github.com/username/repository-name.git](https://github.com/BeleRohit/LinkedList_Operations.git)
+    git clone https://github.com/BeleRohit/LinkedList_Operations.git
     ```
 2. **Install Tkinter**: Tkinter usually comes pre-installed with Python, but if not, you can install it:
     ```bash
