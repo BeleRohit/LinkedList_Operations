@@ -10,8 +10,6 @@ This project is a Python-based graphical user interface (GUI) application that a
 - [Running the Project](#running-the-project)
 - [Logging](#logging)
 - [Error Handling](#error-handling)
-- [File Structure](#file-structure)
-- [Future Improvements](#future-improvements)
 
 ## Features
 - **Insert at the Beginning**: Insert a node at the start of the linked list.
